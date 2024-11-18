@@ -489,7 +489,170 @@ export const higherMath1: Subject = {
           ]
         }
       ]
+    },
+    {
+      number: "4",
+      title: "বৃত্ত",
+      description: "Circle - বৃত্তের সমীকরণ এবং তার প্রয়োগ",
+      categories: [
+        {
+          title: "বৃত্তের মৌলিক ধারণা",
+          resources: [
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "বৃত্তের সমীকরণ",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=dD5ouzf-6E4",
+              topics: "বৃত্তের সমীকরণ ও বৈশিষ্ট্য",
+              category: "basics",
+              views: "294K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "বৃত্তের সমীকরণের বৈশিষ্ট্য (পর্ব ১)",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=Lbb9Wv8LiQM",
+              topics: "বৃত্তের সমীকরণের বিভিন্ন বৈশিষ্ট্য",
+              category: "properties",
+              views: "146K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "বৃত্তের সমীকরণের বৈশিষ্ট্য (পর্ব ২)",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=FyT5QWj9tJE",
+              topics: "বৃত্তের সমীকরণের বিভিন্ন বৈশিষ্ট্য (দ্বিতীয় পর্ব)",
+              category: "properties",
+              views: "126K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "বৃত্ত সম্পর্কিত ছোট ছোট বিষয়",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=yxscjf2tUmI",
+              topics: "বৃত্ত সংক্রান্ত বিভিন্ন ছোট বিষয়ে আলোচনা",
+              category: "small-topics",
+              views: "102K"
+            }
+          ]
+        },
+        {
+          title: "বৃত্তের সমীকরণ নির্ণয়",
+          resources: [
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "বৃত্তের সমীকরণ নির্ণয় (পর্ব ১)",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=x1U70yyVxnk",
+              topics: "বৃত্তের সমীকরণ নির্ণয়ের প্রয়োগ (পর্ব ১)",
+              category: "equations",
+              views: "143K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "বৃত্তের সমীকরণ নির্ণয় (পর্ব ২)",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=yvYw-OKd4Ag",
+              topics: "বৃত্তের সমীকরণ নির্ণয়ের প্রয়োগ (পর্ব ২)",
+              category: "equations",
+              views: "116K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "বৃত্তের সমীকরণ নির্ণয় (পর্ব ৩)",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=UfvkqCAKnwU",
+              topics: "বৃত্তের সমীকরণ নির্ণয়ের প্রয়োগ (পর্ব ৩)",
+              category: "equations",
+              views: "100K"
+            }
+          ]
+        },
+        {
+          title: "দুটি বৃত্তের সম্পর্ক",
+          resources: [
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "দুটি বৃত্ত স্পর্শ করার শর্ত",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=Rp3gLyhhtv0",
+              topics: "দুটি বৃত্তের স্পর্শক সম্পর্ক বিশ্লেষণ",
+              category: "relations",
+              views: "96K"
+            }
+          ]
+        },
+        {
+          title: "স্পর্শক সম্পর্কিত ধারণা",
+          resources: [
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "সরলরেখা এবং বৃত্ত স্পর্শ করার শর্ত",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=icKlzzpnHts",
+              topics: "সরলরেখা এবং বৃত্ত স্পর্শক নির্ণয়ের শর্ত",
+              category: "tangent",
+              views: "124K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "বৃত্ত এবং স্পর্শক নির্ণয় (পর্ব ১)",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=KFivr9jJJ4w",
+              topics: "বৃত্তের স্পর্শকের সমীকরণ নির্ণয় (পর্ব ১)",
+              category: "tangent",
+              views: "91K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "বৃত্ত এবং স্পর্শক নির্ণয় (পর্ব ২)",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=WLqGjtGEU2w",
+              topics: "বৃত্তের স্পর্শকের সমীকরণ নির্ণয় (পর্ব ২)",
+              category: "tangent",
+              views: "65K"
+            }
+          ]
+        },
+        {
+          title: "বৃত্তের কর্ড এবং অন্যান্য",
+          resources: [
+            {
+              subject: "Higher Math I",
+              chapter: "4",
+              type: "Video",
+              title: "বৃত্তের কর্ড",
+              channel: "OnnoRokom Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=V_PhTAgy2Es",
+              topics: "বৃত্তের কর্ড নির্ণয় এবং বৈশিষ্ট্য",
+              category: "chord",
+              views: "75K"
+            }
+          ]
+        }
+      ]
     }
-   
   ]
 };
