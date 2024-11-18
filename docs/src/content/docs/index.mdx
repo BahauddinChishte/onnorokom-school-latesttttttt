@@ -1,0 +1,36 @@
+---
+title: Welcome to EduHub
+description: Free Educational Resources for Everyone
+template: splash
+hero:
+  tagline: Access quality education resources completely free
+  image:
+    file: ../../assets/hero.webp
+  actions:
+    - text: Start Learning
+      link: /subjects/higher-math-1
+      icon: right-arrow
+      variant: primary
+    - text: About EduHub
+      link: /about
+      icon: external
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Why EduHub?
+
+<CardGrid stagger>
+  <Card title="Free Resources" icon="open-book">
+    Access curated educational content from the best sources, completely free.
+  </Card>
+  <Card title="Structured Learning" icon="list-format">
+    Well-organized chapters and topics for systematic learning.
+  </Card>
+  <Card title="Expert Curated" icon="approve-check">
+    Resources selected and verified by experienced educators.
+  </Card>
+  <Card title="Always Available" icon="random">
+    24/7 access to learning materials from anywhere.
+  </Card>
+</CardGrid>
