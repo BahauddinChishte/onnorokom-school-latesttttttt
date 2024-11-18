@@ -378,6 +378,118 @@ export const higherMath1: Subject = {
           ]
         }
       ]
+    },
+    {
+      number: "3",
+      title: "সরলরেখা",
+      description: "Straight Line - সরলরেখার ধারণা এবং গণিতের প্রয়োগ",
+      categories: [
+        {
+          title: "সরলরেখার ধারণা",
+          resources: [
+            {
+              subject: "Higher Math I",
+              chapter: "3",
+              type: "Video",
+              title: "সরলরেখা - ৩.১ (কার্টেসিয়ান ও পোলার স্থানাঙ্ক)",
+              channel: "Bondi Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=PsBipXPlUDA",
+              topics: "কার্টেসিয়ান ও পোলার স্থানাঙ্কের পরিচিতি",
+              category: "basics",
+              views: "1.1M"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "3",
+              type: "Video",
+              title: "সরলরেখা - ৩.২ (সরলরেখার ঢাল ও সমীকরণ)",
+              channel: "Bondi Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=l5mNm_UnF_U",
+              topics: "সরলরেখার ঢাল নির্ণয় এবং সমীকরণের প্রয়োগ",
+              category: "slope",
+              views: "577K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "3",
+              type: "Video",
+              title: "সরলরেখা - ৩.৩ (x ও y অক্ষের সাথে ছেদক)",
+              channel: "Bondi Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=MEK9hwigr2M",
+              topics: "x এবং y অক্ষের ছেদক নির্ণয়ের পদ্ধতি",
+              category: "intercepts",
+              views: "432K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "3",
+              type: "Video",
+              title: "সরলরেখা - ৩.৪ (দুটি সরলরেখার কোণ নির্ণয়)",
+              channel: "Bondi Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=piCP6RYBMBA",
+              topics: "দুটি সরলরেখার মধ্যবর্তী কোণ নির্ণয়",
+              category: "angles",
+              views: "386K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "3",
+              type: "Video",
+              title: "সরলরেখা - ৩.৫ (বিন্দু থেকে সরলরেখার দূরত্ব, পর্ব ১)",
+              channel: "Bondi Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=HHMKLOlw3qU",
+              topics: "বিন্দু থেকে সরলরেখার দূরত্ব নির্ণয়",
+              category: "distance",
+              views: "641K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "3",
+              type: "Video",
+              title: "সরলরেখা - ৩.৫ (বিন্দু থেকে সরলরেখার দূরত্ব, পর্ব ২)",
+              channel: "Bondi Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=WwkHM5lHjHs",
+              topics: "বিন্দু থেকে সরলরেখার দূরত্ব নির্ণয় (দ্বিতীয় পর্ব)",
+              category: "distance",
+              views: "256K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "3",
+              type: "Video",
+              title: "সরলরেখা - ৩.৬ (দুটি সরলরেখার মধ্যে দূরত্ব)",
+              channel: "Bondi Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=01iSkCTKf6A",
+              topics: "দুটি সমান্তরাল সরলরেখার মধ্যে দূরত্ব নির্ণয়",
+              category: "distance",
+              views: "376K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "3",
+              type: "Video",
+              title: "সরলরেখা - ৩.৭ (সরলরেখার বিভিন্ন রূপ)",
+              channel: "Bondi Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=9PEhOz2FD6s",
+              topics: "সরলরেখার বিভিন্ন রূপ এবং তাদের সমীকরণ",
+              category: "forms",
+              views: "285K"
+            },
+            {
+              subject: "Higher Math I",
+              chapter: "3",
+              type: "Video",
+              title: "সরলরেখা (৩.১-৩.৭): ভর্তি প্রস্তুতির সকল টাইপ",
+              channel: "Bondi Pathshala",
+              playlistLink: "https://www.youtube.com/watch?v=gDgea40Abo8",
+              topics: "ভর্তি প্রস্তুতির জন্য সরলরেখার সারসংক্ষেপ",
+              category: "summary",
+              views: "289K"
+            }
+          ]
+        }
+      ]
     }
+   
   ]
 };
