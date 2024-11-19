@@ -209,7 +209,7 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-01 | Narration",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=zpL5bxdiy6o",
+                playlistLink: "https://www.youtube.com/watch?v=yDEc-WhirBg&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=18",
                 topics: "Introduction to narration: direct and indirect speech",
                 category: "narration",
                 views: "115K"
@@ -220,7 +220,7 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-02 | Narration",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=aa4Yo5KmOTs",
+                playlistLink: "https://www.youtube.com/watch?v=VpL7RnCjI0o&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=18",
                 topics: "Advanced narration techniques",
                 category: "narration",
                 views: "93K"
@@ -231,22 +231,11 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-03 | Narration",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=DG4LoNw9NoU",
+                playlistLink: "https://www.youtube.com/watch?v=UVhlKkYEiwM&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=19",
                 topics: "Examples and practice exercises for narration",
                 category: "narration",
                 views: "78K"
               },
-              {
-                subject: "English",
-                chapter: "4",
-                type: "Video",
-                title: "Lecture-04 | Narration",
-                channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=LbCsnE4FToE",
-                topics: "Narration: Special cases and common errors",
-                category: "narration",
-                views: "65K"
-              }
             ]
           }
         ]
@@ -265,7 +254,7 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-01 | Modifiers",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=KbP7-iyInoA",
+                playlistLink: "https://www.youtube.com/watch?v=gbZrAI5q92o&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=20",
                 topics: "Introduction to modifiers and their types",
                 category: "modifiers",
                 views: "145K"
@@ -276,7 +265,7 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-02 | Modifiers",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=NtOvU5plXXc",
+                playlistLink: "https://www.youtube.com/watch?v=2pLJRDEw_pk&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=22",
                 topics: "Common mistakes in modifier usage",
                 category: "modifiers",
                 views: "112K"
@@ -287,22 +276,11 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-03 | Modifiers",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=yZWNV8z2Qvc",
+                playlistLink: "https://www.youtube.com/watch?v=MPYTa9q0oR8&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=23",
                 topics: "Advanced usage of modifiers",
                 category: "modifiers",
                 views: "98K"
               },
-              {
-                subject: "English",
-                chapter: "5",
-                type: "Video",
-                title: "Lecture-04 | Modifiers",
-                channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=Pb7ezTnsX5Q",
-                topics: "Practice exercises for modifiers",
-                category: "modifiers",
-                views: "87K"
-              }
             ]
           }
         ]
@@ -321,7 +299,7 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-01 | Pronoun Reference",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=Erg5iOg6VaI",
+                playlistLink: "https://www.youtube.com/live/uIF7kIxwzos?si=DqAbo4aD55-QuHa9",
                 topics: "Basics of pronoun reference and common mistakes",
                 category: "pronouns",
                 views: "120K"
@@ -332,7 +310,7 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-02 | Pronoun Reference",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=zY6q7BlT9NI",
+                playlistLink: "https://www.youtube.com/watch?v=DD_jNb-9T3g&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=25",
                 topics: "Advanced techniques in pronoun reference",
                 category: "pronouns",
                 views: "103K"
@@ -343,22 +321,11 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-03 | Pronoun Reference",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=X29qGRO_fWk",
+                playlistLink: "https://www.youtube.com/watch?v=7-VjzUNeYnQ&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=26",
                 topics: "Special cases and exceptions in pronoun usage",
                 category: "pronouns",
                 views: "92K"
               },
-              {
-                subject: "English",
-                chapter: "6",
-                type: "Video",
-                title: "Lecture-04 | Pronoun Reference",
-                channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=F6kZWRcG8zE",
-                topics: "Exercises and practice for pronoun reference",
-                category: "pronouns",
-                views: "85K"
-              }
             ]
           }
         ]
@@ -377,7 +344,7 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-01 | Sentence Connectors",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=jH2jfWq4sB8",
+                playlistLink: "https://www.youtube.com/watch?v=IPnPc4eSMm8&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=27",
                 topics: "Introduction to sentence connectors and their usage",
                 category: "connectors",
                 views: "135K"
@@ -388,7 +355,7 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-02 | Sentence Connectors",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=kNhO_tPMXH4",
+                playlistLink: "https://www.youtube.com/watch?v=xgAtMo4Ehr8&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=28",
                 topics: "Common types of sentence connectors",
                 category: "connectors",
                 views: "112K"
@@ -399,22 +366,11 @@ export const english: Subject = {
                 type: "Video",
                 title: "Lecture-03 | Sentence Connectors",
                 channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=XPFfOqjlps8",
+                playlistLink: "https://www.youtube.com/watch?v=N9ZvS-UnPxA&list=PL4gRuW3EKQHt3mIl_Q-NW_avQ_dliWNkl&index=29",
                 topics: "Advanced sentence connectors for academic writing",
                 category: "connectors",
                 views: "97K"
               },
-              {
-                subject: "English",
-                chapter: "7",
-                type: "Video",
-                title: "Lecture-04 | Sentence Connectors",
-                channel: "English Moja",
-                playlistLink: "https://www.youtube.com/watch?v=NTF6xQ4P2oM",
-                topics: "Exercises and practice for sentence connectors",
-                category: "connectors",
-                views: "88K"
-              }
             ]
           }
         ]
