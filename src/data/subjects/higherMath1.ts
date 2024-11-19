@@ -1,7 +1,7 @@
 import { Subject } from '../../types';
 
 export const higherMath1: Subject = {
-  name: "উচ্চতর গণিত ১ম পত্র",
+  name: "উচ্চতর গণিত",
   image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=800&h=400",
   description: "উচ্চতর গণিত ১ম পত্র - HSC প্রথম বর্ষের জন্য সম্পূর্ণ পাঠ্যক্রম",
   chapters: [
